@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik1618" alt="pratik1618" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/39Cg.mp4">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmQ0ZjdleW5vaDY0cmlpdmVtYmF0aDQ3aHM2dnd3MXFueGo1OG9layZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 - 🔭 I’m currently working on **ERP**
 
 - 🌱 I’m currently learning **MEAN STACK**
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Reactjs,redux,flutter,mongodb**
 
-- 📫 How to reach me **kadampratik19**
+- 📫 How to reach me **kadampratik18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
