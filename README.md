@@ -1,5 +1,5 @@
 <p align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Banner" width="100%">
+  <img src="[https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Pratik Kadam</h1>
